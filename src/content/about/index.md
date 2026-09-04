@@ -11,8 +11,8 @@ OAuth 2.0 and Auth0.
 
 Most of my work is with building distributed systems and the infrastructure
 behind them: event-driven Java & Go microservices, Kubernetes, and cloud
-architecture on GCP. I tend to end up owning the things that can't be allowed to
-break, like identity and auth across an entire division, financial processing
+architecture on GCP. I like to work on the things that we don't want to break,
+like identity and auth across an entire division, financial processing
 pipelines, and platforms handling multi-terabyte healthcare datasets. I'm also
 deep in the AI side of engineering, not just using the tools but setting the
 standards and guardrails that took two teams from experimenting with agents to
